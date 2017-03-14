@@ -7,6 +7,7 @@ Tips for a Code Jam
 -------------------
 * Aim low!
 * Sleep!
+* Take regular showers!
 
 Code
 ----
@@ -15,8 +16,8 @@ Code
 
 Graphics
 --------
-* [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. 
-* [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. 
+* [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
+* [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
 
 Audio
 -----
