@@ -1,12 +1,12 @@
 A list of game development resources. Created for Ludum Dare Östersund.
 
-[Ludum Dare](http://ludumdare.com/)
-[Meetup Östersund] (https://www.meetup.com/Ludum-Dare-Ostersund/)
+* [Ludum Dare](http://ludumdare.com/)
+* [Meetup Östersund] (https://www.meetup.com/Ludum-Dare-Ostersund/)
 
 Tips for a Code Jam
 -------------------
-Aim low!
-Sleep!
+* Aim low!
+* Sleep!
 
 Code
 ----
